@@ -93,7 +93,9 @@ git commit -am "Give correct reason to why PRs are named that"
 ```
 
 3. Check on GitHub whether the branch exists there or not. Does it? Why or why not?
+   No - haven't pushed!
 4. You may think it is because you haven't pushed to the branch yet, so go ahead and try to push the branch to the remote repository.
+   It's in a different branch
 
 ```bash
 git push
