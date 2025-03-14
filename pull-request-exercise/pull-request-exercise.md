@@ -65,7 +65,8 @@ git remote -v
 
 ### Why are pull requests called "Pull Requests"? (wrong answer)
 
-Pull requests are so named basically because you are asking to _pull_ changes from a remote to your local repository. And that's because you have to ask permission to copy changes out of the repository, even if you have read access to that repository.
+[//]: # (Pull requests are so named basically because you are asking to _pull_ changes from a remote to your local repository. And that's because you have to ask permission to copy changes out of the repository, even if you have read access to that repository.)
+Pull requests are so named because you are asking to pull the changes you made into whatever branch it may be. This is so people can review your code, generally you do not have the right permissions to push straight to said branch.
 
 <!--TODO: This answer is SO wrong, I think we need to fix it! -->
 
